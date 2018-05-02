@@ -1,0 +1,6 @@
+framework module HamsterUIKit {
+  umbrella header "HamsterUIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
